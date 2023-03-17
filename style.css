@@ -1,0 +1,21 @@
+body, html { 
+    background-color: #111;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#chart {
+    display: block;
+    width: 80%;
+    height: 100%;
+}
+
+.axis line, .axis path{
+    stroke: #AAA;
+}
+
+.axis text {
+    fill: #aaa;
+}
